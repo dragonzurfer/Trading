@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "showFrontmatter": false,
+  "attachmentFolderPath": "zAttachments"
+}

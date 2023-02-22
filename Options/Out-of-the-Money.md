@@ -1,0 +1,1 @@
+"Out of the money" (OTM) is an expression used to describe an option contract that only contains extrinsic value.

@@ -1,0 +1,5 @@
+- Delta indicates the rate of change of option price w.r.t to index.
+- Delta of ATM options are close 0.5 and deep [[In-the-money| ITM]] options delta are close to 1. Where as deep [[Out-of-the-Money | OTM]] are close to 0.
+- Delta can then be used as indicator to show probability of where the underlying will be w.r.t to the strike price in the short term
+- Since delta varies depending on distance from spot. Delta cannot be a constant. It changes constantly as spot approaches or drifts away from strike price.
+	- This is one of the main reasons why people like to buy/(go-long) options. The change in delta can lead to exponential increase in price of an options.

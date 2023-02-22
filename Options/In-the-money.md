@@ -1,0 +1,1 @@
+An option that's in the money is an option that presents a profit opportunity due to the relationship between the strike price and the prevailing market price of the underlying asset.
