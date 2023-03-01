@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80108646648bef91",
+            "id": "7e7ff12e83f6a067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/What is Trading.md",
+                "file": "Tutorials/Options/Options is a type of derivative.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorials/What is Trading.md",
+                "file": "Tutorials/Options/Options is a type of derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorials/What is Trading.md",
+                "file": "Tutorials/Options/Options is a type of derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorials/What is Trading.md"
+                "file": "Tutorials/Options/Options is a type of derivative.md"
               }
             }
           }
@@ -150,10 +150,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "80108646648bef91",
+  "active": "7e7ff12e83f6a067",
   "lastOpenFiles": [
-    "Tutorials/Price Action trading.md",
     "Tutorials/What is Trading.md",
+    "Tutorials/Options/Options is a type of derivative.md",
+    "Tutorials/Options",
+    "Tutorials/Price Action trading.md",
     "Price Action/Technical analysis.md",
     "Options/Delta.md",
     "Options/Derivative - Options.md",
