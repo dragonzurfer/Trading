@@ -11,12 +11,9 @@
             "id": "7e7ff12e83f6a067",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Tutorials/Options/Options is a type of derivative.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Tutorials/TASK KANBAN.md"
               }
             }
           }
@@ -71,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e3c1446e183f02f3",
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorials/Options/Options is a type of derivative.md",
+                "file": "Tutorials/TASK KANBAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorials/Options/Options is a type of derivative.md",
+                "file": "Tutorials/TASK KANBAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorials/Options/Options is a type of derivative.md"
+                "file": "Tutorials/TASK KANBAN.md"
               }
             }
           }
@@ -152,11 +149,16 @@
   },
   "active": "7e7ff12e83f6a067",
   "lastOpenFiles": [
-    "Tutorials/What is Trading.md",
-    "Tutorials/Options/Options is a type of derivative.md",
-    "Tutorials/Options",
+    "Tutorials/Index.md",
+    "Untitled.md",
     "Tutorials/Price Action trading.md",
+    "Tutorials/Options/Options is a type of derivative.md",
+    "Tutorials/TASK KANBAN.md",
     "Price Action/Technical analysis.md",
+    "Price Action/Resistances.md",
+    "Price Action/Line Chart.md",
+    "Tutorials/What is Trading.md",
+    "Tutorials/Options",
     "Options/Delta.md",
     "Options/Derivative - Options.md",
     "Options/Intrinsic Value.md",

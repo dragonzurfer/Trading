@@ -1,3 +1,4 @@
+#### why options are cool
 Options are a type of derivative that give you the power to buy or sell an underlying asset at a fixed price in the future. Options are amazing because they let you profit from different market scenarios without owning the asset itself. You can use options to hedge your risk, speculate on price movements, generate income, and create complex strategies.
 
 Options are flexible and versatile instruments that can suit any trading style and goal. You can choose from different types of options, such as calls and puts, American and European, vanilla and exotic. You can also customize the strike price, expiration date, and contract size of your options to fit your needs and expectations.
@@ -23,7 +24,7 @@ you may face unlimited losses depending on how much the underlying asset moves.
 ## Script
 
 
-Hello everyone and welcome to this video where we will learn about derivatives. Derivatives are financial instruments that derive their value from an underlying asset or index. They are used for various purposes such as hedging, speculation, arbitrage and risk management.
+Hello everyone and welcome to this video where we will learn about derivatives. Derivatives are financial instruments that derive their value from an underlying asset or [[Index]]. They are used for various purposes such as hedging, speculation, arbitrage and risk management.
 
 In this video, we will cover the following topics:
 
