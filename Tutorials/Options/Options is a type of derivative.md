@@ -23,13 +23,11 @@ Now let’s move on to the second topic: what are the types of derivatives?
 
 There are many types of derivatives but they can be broadly classified into four categories: futures, forwards, swaps and options.
 
-Futures are contracts that oblige the buyer and seller to exchange an asset at a predetermined price and date in the future. For example, if you buy a futures contract of Reliance at 17,000 today for delivery on March 31st 2023, you are agreeing to pay 17,000 rupees for one unit of Nifty 50 index on that date, regardless of its market price then.
+Futures are contracts that oblige the buyer and seller to exchange an asset at a predetermined price and date in the future. For example, if you buy a futures contract of Reliance at 2,000 today for delivery on March 31st 2023, you are agreeing to pay 2,000 rupees for one unit of Reliance index on that date, regardless of its market price then.
 
-Forwards are contracts that oblige the buyer and seller to exchange an asset at a predetermined price and date in the future but they do not trade on an exchange. They are customized agreements between two parties that suit their specific needs. For example, if you want to buy US dollars at 75 rupees per dollar on June 30th 2023, you can enter into a forward contract with a bank that agrees to sell you US dollars at that rate on that date.
+Options are contracts that give the buyer the right but not the obligation to buy or sell an asset at a specified price and date in the future. 
 
-Swaps are contracts that oblige the parties to exchange periodic payments based on different rates or prices of an underlying asset or index. For example, if you have a loan with a fixed interest rate but you want to switch to a floating interest rate, you can enter into a swap contract with another party that has a loan with a floating interest rate but wants to switch to a fixed interest rate. You agree to pay each other the difference between your respective interest rates on your loans periodically.
-
-Options are contracts that give the buyer the right but not the obligation to buy or sell an asset at a specified price and date in the future. For example, if you buy a call option of Reliance Industries Ltd. at 2, 000 today for expiry on March 31st 2023, you have the right to buy one share of Reliance Industries Ltd. at 2, 000 rupees on that date, if its market price is higher than 2, 000 rupees then. If its market price is lower than 2, 000 rupees then, you can choose not to exercise your option and let it expire worthless.
+Swaps and forwards nobody trades
 
 These four types of derivatives have different features and functions but they all share some common characteristics:
 
@@ -39,7 +37,7 @@ and one who takes a short position (seller).
 
 -   They have a notional value: the amount of the underlying asset or index that the contract is based on.
 -   They have a maturity date: the date when the contract expires or is settled.
--   They have a settlement method: how the contract is settled at maturity. It can be physical delivery (the exchange of the underlying asset) or cash settlement (the payment of the difference between the contract price and the market price).
+-   They have a settlement method: how the contract is settled at maturity. It can be [[physical delivery]] (the exchange of the underlying asset) or[[ cash settlement]] (the payment of the difference between the contract price and the market price).
 
 Now let’s move on to the third topic: what are some examples of derivatives?
 
