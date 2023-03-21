@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e7ff12e83f6a067",
+            "id": "4fe1f3791acf7f45",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -147,13 +147,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7e7ff12e83f6a067",
+  "active": "4fe1f3791acf7f45",
   "lastOpenFiles": [
+    "Tutorials/Options/Details for Options series.md",
+    "Tutorials/Options/What is ATM, ITM, OTM.md",
+    "Tutorials/TASK KANBAN.md",
+    "zAttachments/Pasted image 20230308230447.png",
+    "Tutorials/Technical analysis/Price Action trading.md",
+    "Tutorials/Technical analysis",
+    "Tutorials/Options/What are options.md",
+    "Tutorials/Options/Option pricing.md",
     "Tutorials/Index.md",
     "Untitled.md",
     "Tutorials/Price Action trading.md",
     "Tutorials/Options/Options is a type of derivative.md",
-    "Tutorials/TASK KANBAN.md",
     "Price Action/Technical analysis.md",
     "Price Action/Resistances.md",
     "Price Action/Line Chart.md",
